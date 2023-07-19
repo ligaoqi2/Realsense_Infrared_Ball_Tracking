@@ -8,11 +8,7 @@ Before you running the program, please make sure you have already connected the 
 <img src="./detectResult.gif" width = "400" height = "250" alt="图片名称"/>
 
 ### Realsense example
-<figure class="third">
-<img src="./realsense_diy.jpg" width = "200" height = "150" alt="图片名称"/>
-<img src="./flashlight.jpg" width = "200" height = "150" alt="图片名称"/>
-<img src="./balls.jpg" width = "200" height = "150" alt="图片名称"/>
-</figure>
+<img src="./realsense_diy.jpg" width = "200" height = "150" alt="图片名称"/><img src="./flashlight.jpg" width = "200" height = "150" alt="图片名称"/><img src="./balls.jpg" width = "200" height = "150" alt="图片名称"/>
 
 ### Environments
 ```
