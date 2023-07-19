@@ -1,5 +1,4 @@
 import numpy as np
-import pyrealsense2 as rs
 
 
 def project_point(point, camera1_intrinsics, camera1_extrinsics, camera2_intrinsics, T, Depth):
