@@ -8,9 +8,9 @@ Before you running the program, please make sure you have already connected the 
 <img src="./detectResult.gif" width = "400" height = "250" alt="图片名称"/>
 
 ### Realsense example
-<img src="./realsense_diy.jpg" width = "400" height = "300" alt="图片名称"/>
-<img src="./flashlight.jpg" width = "400" height = "300" alt="图片名称"/>
-<img src="./balls.jpg" width = "400" height = "300" alt="图片名称"/>
+<img src="./realsense_diy.jpg" width = "200" height = "150" alt="图片名称"/>
+<img src="./flashlight.jpg" width = "200" height = "150" alt="图片名称"/>
+<img src="./balls.jpg" width = "200" height = "150" alt="图片名称"/>
 
 ### Environments
 ```
@@ -25,5 +25,13 @@ python realsens_infrare_rgb.py
 ```
 
 ### Method
-We use the infrared camera and bright spot detection to detect the infrared reflective ball
+We use two infrared camera and bright spot detection to detect the infrared reflective ball.
+Then we calculate the 2D and 3D coordinates of the ball through the camera's internal, external parameters and epipolar geometry.
 
+### DIY
+You can modify the line 24 in infraDetect.py with different threshold for detecting different size balls.
+
+### Contact
+```
+ligaoqi02@gmail.com
+```
