@@ -5,7 +5,7 @@
 Before you running the program, please make sure you have already connected the realsense, attached the visible light shielding sheet on two infrared cameras, blocked the laser dot matrix and placed diffuse infrared light source.
 
 ### Result
-<video id="video" controls="" preload="none" poster="视频">
+<video id="video" controls="" preload="none" poster="封面">
       <source id="mp4" src="./detectResult.mp4" type="video/mp4">
 </video>
 
